@@ -1,6 +1,6 @@
 {
   "foundation": {
-    "Ленточный": {"material": 3900, "labor": 1500},
+    "Ленточный": {"material": 5900, "labor": 1500},
     "Свайный": {"material": 2000, "labor": 1500},
     "Плитный": {"material": 4500, "labor": 1500}
   },
