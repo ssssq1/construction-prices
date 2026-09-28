@@ -1,11 +1,11 @@
 {
   "foundation": {
-    "Ленточный": {"material": 3500, "labor": 1500},
-    "Свайный": {"material": 2000, "labor": 1500},
-    "Плитный": {"material": 4500, "labor": 1500}
+    "Ленточный": {"material": 4678, "labor": 3600},
+    "Свайный": {"material": 4310, "labor": 3500},
+    "Плитный": {"material": 1500, "labor": 3500}
   },
   "wall": {
-    "Кирпич": {"material": 8000, "labor": 4000},
+    "Кирпич": {"material": 7700, "labor": 7130},
     "Газобетон": {"material": 5000, "labor": 3000},
     "Каркас": {"material": 3500, "labor": 2500},
     "Брус": {"material": 6000, "labor": 3000}
