@@ -1,19 +1,19 @@
 {
   "foundation": {
-    "Ленточный": {"material": 4678, "labor": 3600},
-    "Свайный": {"material": 4310, "labor": 3500},
-    "Плитный": {"material": 1500, "labor": 3500}
+    "Ленточный": {"material": 5600, "labor": 6000},
+    "Свайный": {"material": 5600, "labor": 7000},
+    "Плитный": {"material": 5600, "labor": 5500}
   },
   "wall": {
-    "Кирпич": {"material": 7700, "labor": 7130},
-    "Газобетон": {"material": 5000, "labor": 3000},
+    "Кирпич": {"material": 7880, "labor": 7880},
+    "Газобетон": {"material": 5900, "labor": 6000},
     "Каркас": {"material": 3500, "labor": 2500},
     "Брус": {"material": 6000, "labor": 3000}
   },
   "roof": {
-    "Металлочерепица": {"material": 1000, "labor": 500},
-    "Мягкая кровля": {"material": 1200, "labor": 600},
-    "Профнастил": {"material": 800, "labor": 400}
+    "Металлочерепица": {"material": 1000, "labor": 1900},
+    "Мягкая кровля": {"material": 1500, "labor": 2600},
+    "Профнастил": {"material": 700, "labor": 1900}
   },
   "finish": {
     "Базовая": {"material": 2000, "labor": 1000},
@@ -21,9 +21,9 @@
     "Премиум": {"material": 8000, "labor": 4000}
   },
   "windows": {
-    "Пластиковые": {"material": 5000, "labor": 2000},
-    "Деревянные": {"material": 8000, "labor": 3000},
-    "Алюминиевые": {"material": 12000, "labor": 4000}
+    "Пластиковые": {"material": 25000, "labor": 5000},
+    "Деревянные": {"material": 28000, "labor": 5000},
+    "Алюминиевые": {"material": 45000, "labor": 5000}
   },
   "doors": {
     "Входная металлическая": {"material": 15000, "labor": 3000},
@@ -36,8 +36,8 @@
     "Премиум": {"material": 6000, "labor": 4000}
   },
   "facade": {
-    "Штукатурка": {"material": 1200, "labor": 800},
+    "Штукатурка": {"material": 1200, "labor": 1800},
     "Сайдинг": {"material": 800, "labor": 600},
-    "Кирпич": {"material": 2500, "labor": 1500}
+    "Кирпич": {"material": 3000, "labor": 3500}
   }
 }
