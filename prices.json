@@ -1,6 +1,6 @@
 {
   "foundation": {
-    "Ленточный": {"material": 5900, "labor": 2500},
+    "Ленточный": {"material": 3500, "labor": 1500},
     "Свайный": {"material": 2000, "labor": 1500},
     "Плитный": {"material": 4500, "labor": 1500}
   },
@@ -19,5 +19,25 @@
     "Базовая": {"material": 2000, "labor": 1000},
     "Стандартная": {"material": 4000, "labor": 2000},
     "Премиум": {"material": 8000, "labor": 4000}
+  },
+  "windows": {
+    "Пластиковые": {"material": 5000, "labor": 2000},
+    "Деревянные": {"material": 8000, "labor": 3000},
+    "Алюминиевые": {"material": 12000, "labor": 4000}
+  },
+  "doors": {
+    "Входная металлическая": {"material": 15000, "labor": 3000},
+    "Межкомнатная МДФ": {"material": 5000, "labor": 1500},
+    "Межкомнатная массив": {"material": 12000, "labor": 2500}
+  },
+  "engineering": {
+    "Базовая": {"material": 1500, "labor": 1000},
+    "Стандартная": {"material": 3000, "labor": 2000},
+    "Премиум": {"material": 6000, "labor": 4000}
+  },
+  "facade": {
+    "Штукатурка": {"material": 1200, "labor": 800},
+    "Сайдинг": {"material": 800, "labor": 600},
+    "Кирпич": {"material": 2500, "labor": 1500}
   }
 }
