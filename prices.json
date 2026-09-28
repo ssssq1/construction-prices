@@ -1,0 +1,23 @@
+{
+  "foundation": {
+    "Ленточный": {"material": 9900, "labor": 1500},
+    "Свайный": {"material": 2000, "labor": 1500},
+    "Плитный": {"material": 4500, "labor": 1500}
+  },
+  "wall": {
+    "Кирпич": {"material": 8000, "labor": 4000},
+    "Газобетон": {"material": 5000, "labor": 3000},
+    "Каркас": {"material": 3500, "labor": 2500},
+    "Брус": {"material": 6000, "labor": 3000}
+  },
+  "roof": {
+    "Металлочерепица": {"material": 1000, "labor": 500},
+    "Мягкая кровля": {"material": 1200, "labor": 600},
+    "Профнастил": {"material": 800, "labor": 400}
+  },
+  "finish": {
+    "Базовая": {"material": 2000, "labor": 1000},
+    "Стандартная": {"material": 4000, "labor": 2000},
+    "Премиум": {"material": 8000, "labor": 4000}
+  }
+}
